@@ -1,6 +1,6 @@
 # Dicionário de Dados – SpotifyFeatures
 
-| Coluna            | Significado em português        | Como interpretar os valores |
+| Coluna            | Português       | Descrição |
 |-------------------|---------------------------------|-----------------------------|
 | `genre`           | Gênero musical                  | Categoria atribuída pelo Spotify (ex.: Movie, Pop, Rock) usada para segmentações por estilo. |
 | `artist_name`     | Artista                         | Nome do(a) intérprete principal; permite identificar autores e cruzar discografias. |
