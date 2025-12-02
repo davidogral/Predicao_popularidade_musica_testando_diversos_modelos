@@ -1,0 +1,11 @@
+pandas
+seaborn
+numpy
+matplotlib
+scikit-learn
+xgboost
+fastapi
+uvicorn
+librosa
+soundfile
+python-multipart
